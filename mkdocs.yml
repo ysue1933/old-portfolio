@@ -1,0 +1,7 @@
+site_name: ysue's portfolio
+site_url: https://https://ysue1933.github.io/mdbook-site
+
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
